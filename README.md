@@ -1,6 +1,6 @@
 # malign-vine
 
-1-dimentional cellular automaton climbing a vine
+1-dimentional cellular automaton climbing a vine. 2019
 
 # Videos
 
